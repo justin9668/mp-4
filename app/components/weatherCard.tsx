@@ -1,5 +1,5 @@
 import styled from "styled-components";
-import { Weather } from "@app/interfaces/weather";
+import { Weather } from "@/app/interfaces/weather";
 
 const WeatherCardWrapper = styled.div`
     display: flex;
